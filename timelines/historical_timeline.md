@@ -184,7 +184,6 @@ Work completed posthumously by family (first edition 1998, second edition 2024)
 
 Note: All entries, dates, and page references in this timeline are derived solely from Epameinondas Xenopoulos's "Epistemology of Logic: Logic-Dialectic or Theory of Knowledge" (2nd ed., 2024), its footnotes, and its internal bibliography. No external historical sources, interpretations, or chronological expansions have been made. The timeline reflects the specific historical narrative and periodization as presented in the original text, focusing exclusively on figures and developments explicitly mentioned by Xenopoulos.
 
-αντικατεστησε μονο ολα τα αγγλικα με ελληνικα ακαδημαικα ακριβη vοηματικη αποδοση
 historical_timeline.md
 
 Ιστορικό Χρονολόγιο της Λογικής Ανάπτυξης από την «Επιστημολογία της Λογικής»
