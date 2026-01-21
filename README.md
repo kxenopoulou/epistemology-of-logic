@@ -1,3 +1,4 @@
+
 Epistemology of Logic: Logic – Dialectic or Theory of Knowledge
 Repository for the Study and Formalization of Dialectical Logic according to the work of Epameinondas Xenopoulos
 
@@ -5,8 +6,10 @@ This repository formalizes Epameinondas Xenopoulos' work, "Epistemology of Logic
 
 Xenopoulos by synthesizing the static precision of formal logic (Hilbert) with the dynamic genesis of cognitive structures (Piaget), he forged a new and more powerful instrument of thought—a true Novum Organum. For this radical synthesis, Xenopoulos can be characterized as an 'Einstein of Dialectical Logic'.
 
-[[License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%2520BY--NC%25204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+...[[License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%2520BY--NC%25204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [[ISBN: 978-618-87332-0-6](https://img.shields.io/badge/ISBN-978--618--87332--0--6-green)](https://www.google.com/search?q=978-618-87332-0-6)
+[Epistemology of Logic: Logic-Dialectic or Theory of Knowledge - ResearchGate](https://www.researchgate.net/publication/359717578_Epistemology_of_Logic_Logic-Dialectic_or_Theory_of_Knowledge)
 [[Epistemology of Logic](https://img.shields.io/badge/Epistemology%20of%20Logic-Visit%20Now-blue)](https://www.epistemologyoflogic.com/)
 
 📘 Purpose and Character of the Repository
@@ -165,7 +168,30 @@ For theoretical, licensing, or copyright matters regarding the original work: ka
 
 For technical issues, bugs, or contribution proposals regarding the repository: Open an Issue or a Pull Request directly here on GitHub.
 
+Access to the Source Text
+
+📖 Purchase the Physical Book: Available from "Aristotle" Editions, Kateleios 28082, Kefalonia, Greece. 📞 +30 26710 81009.
+
+🌐 Official Website: For more information, visit: www.epistemology.gr.
+
+⚖️ Digital Access (Authorized): The authorized full text is available for academic and research purposes on ResearchGate: Epistemology of Logic: Logic-Dialectic or Theory of Knowledge.Epistemology of Logic: Logic-Dialectic or Theory of Knowledge - ResearchGate](https://www.researchgate.net/publication/
+
+
+
+
+📧 Rights & Permissions: For inquiries regarding the text, translation, or special permissions, please contact: katerinaxenopoulou@gmail.com.
+
+
 *This work is dedicated to the memory and intellectual legacy of Epameinondas Xenopoulos (1934-1994).*
+
+
+
+
+
+
+
+
+
 
 
 
@@ -173,9 +199,18 @@ For technical issues, bugs, or contribution proposals regarding the repository: 
 Επιστημολογία της Λογικής: Λογική – Διαλεκτική ή Θεωρία της Γνώσης
 Αποθετήριο για τη μελέτη και την τυποποίηση της διαλεκτικής λογικής σύμφωνα με το έργο του Επαμεινώνδα Ξενόπουλου
 
-https://img.shields.io/badge/License-CC%2520BY--NC%25204.0-lightgrey.svg
-https://img.shields.io/badge/%CE%95%CE%BA%CE%B4%CF%8C%CF%83%CE%B5%CE%B9%CF%82-%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82-blue
-https://img.shields.io/badge/ISBN-978--618--87332--0--6-green
+
+**Αυτό το αποθετήριο μετατρέπει το έργο του Επαμεινώνδα Ξενόπουλου, «Επιστημολογία της Λογικής: Λογική – Διαλεκτική ή Θεωρία της Γνώσης» (1998, 2η έκδοση 2024), σε σύγχρονα υπολογιστικά πλαίσια.** Επιστρατεύοντας 2.500 χρόνια ελληνικής φιλοσοφικής παράδοσης, προτείνει μια πρωτοποριακή προσέγγιση στη συλλογιστική που αντιμετωπίζει συστηματικά τις αντιφάσεις, τη χρονική δυναμική και τους ποιοτικούς μετασχηματισμούς.
+
+Ο Ξενόπουλος, συνθέτοντας την στατική ακρίβεια της τυπικής λογικής (Hilbert) με τη δυναμική γένεση των νοητικών δομών (Piaget), επέκτεινε ριζικά το όραμα για τη λογική. Η θεωρία του **Τυπικο-Διαλεκτικής Λογικής** δεν απορρίπτει την κλασική λογική, αλλά την «ξεπεράνει» (Aufhebung) και την ενσωματώνει σε ένα ανώτερο, συνολικό όργανο σκέψης – ένα πραγματικό **Novum Organum** για τη σύγχρονη επιστήμη. Για αυτή τη θεμελιώδη σύνθεση, ο Ξενόπουλος χαρακτηρίζεται ως **«Αϊνστάιν της Διαλεκτικής Λογικής»**.
+
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+...[[License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%2520BY--NC%25204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+[[ISBN: 978-618-87332-0-6](https://img.shields.io/badge/ISBN-978--618--87332--0--6-green)](https://www.google.com/search?q=978-618-87332-0-6)
+[Epistemology of Logic: Logic-Dialectic or Theory of Knowledge - ResearchGate](https://www.researchgate.net/publication/359717578_Epistemology_of_Logic_Logic-Dialectic_or_Theory_of_Knowledge)
+[[Epistemology of Logic](https://img.shields.io/badge/Epistemology%20of%20Logic-Visit%20Now-blue)](https://www.epistemologyoflogic.com/)
+
 
 📘 Σκοπός του Αποθετηρίου
 Αυτό το αποθετήριο δημιουργήθηκε με την άδεια και υπό την εποπτεία των κληρονόμων του συγγραφέα και έχει ως στόχο:
