@@ -1,9 +1,10 @@
-# Epistemology of Logic  
-## Logic–Dialectic or Theory of Knowledge  
+# Epistemology of Logic: Logic–Dialectic or Theory of Knowledge
 
-**Repository for the Study and Formalization of Dialectical Logic  
-according to the work of Epameinondas Xenopoulos**
+Repository for the Study and Formalization of Dialectical Logic  
+according to the work of the Greek philosopher **Epameinondas Xenopoulos**
 
+**Author:** Epameinondas Xenopoulos  
+**ORCID:** https://orcid.org/0009-0000-1736-8555
 ---
 
 This repository formalizes the work of **Epameinondas Xenopoulos**,  
