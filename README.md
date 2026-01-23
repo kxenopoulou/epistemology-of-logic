@@ -1,20 +1,30 @@
 # Epistemology of Logic: Logic–Dialectic or Theory of Knowledge
 
-Repository for the Study and Formalization of Dialectical Logic  
-according to the work of the Greek philosopher **Epameinondas Xenopoulos**
+![313-314_Page_1 jpg 3](https://github.com/user-attachments/assets/85352a8e-6009-4ea1-8b5e-a5139f5e6a89)                           ![12 jpg-](https://github.com/user-attachments/assets/96401677-5a5d-4a7e-bcfb-f4305f329d2d)
+
+
 
 **Author:** Epameinondas Xenopoulos  
 **ORCID:** https://orcid.org/0009-0000-1736-8555
----
+
+
+
+
+
+
+
+# Repository for the Study and Formalization of Dialectical Logic  
+## According to the Work of the Greek Philosopher **Epameinondas Xenopoulos**
 
 This repository formalizes the work of **Epameinondas Xenopoulos**,  
 *Epistemology of Logic: Logic–Dialectic or Theory of Knowledge*  
 (1st ed. 1998, 2nd ed. 2024), into modern theoretical, mathematical, and computational frameworks.
 
-Drawing on **2,500 years of Greek philosophical tradition**, the project introduces a rigorous approach to reasoning that systematically addresses **contradiction, temporality, and qualitative transformation**, with direct relevance to logic, epistemology, and Artificial Intelligence.
+Drawing on **2,500 years of Greek philosophical tradition**, the project introduces a rigorous approach to reasoning that systematically addresses **contradiction, temporality, and qualitative transformation**, with direct relevance to **logic, epistemology, and Artificial Intelligence**.
 
-Xenopoulos synthesized the **static precision of formal logic** (Hilbert) with the **dynamic genesis of cognitive structures** (Piaget), forging a new and more powerful instrument of thought — a genuine **Novum Organum**.  
+Xenopoulos synthesized the **static precision of formal logic (Hilbert)** with the **dynamic genesis of cognitive structures (Piaget)**, forging a new and more powerful instrument of thought — a genuine **Novum Organum**.  
 For this radical synthesis, Xenopoulos has been characterized as an **“Einstein of Dialectical Logic.”**
+
 
 ---
 
