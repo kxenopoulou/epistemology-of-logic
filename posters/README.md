@@ -49,18 +49,7 @@ decision‑making.
 
 ---
 
-### 4. Mathematical Formalization of Dialectical Logic  
-**The Xenopoulos Dialectical Model (XDM)**
-
-Presents a mathematical and computational formalization of dialectical logic
-using nonlinear operators and dynamic synthesis.
-
-**Related DOI (Zenodo):**  
-10.5281/zenodo.15450108
-
----
-
-### 5. How Xenopoulos Mathematicized Dialectical Evolution  
+### 4. How Xenopoulos Mathematicized Dialectical Evolution  
 **Through Jean Piaget’s INRC Operators**
 
 Demonstrates how dialectical evolution can be expressed mathematically through
@@ -68,6 +57,13 @@ Jean Piaget’s INRC operators, forming a formal structure for reversibility and
 synthesis.
 **Related DOI (Zenodo):** 
 https://zenodo.org/records/15764001
+
+---
+
+## 5. The Dynamic Interaction Between System and Environment  
+### The N[Fi(Gj)] and N[E1(G1)] Formulas of Epameinondas Xenopoulos
+
+Presented at the 54th Annual Meeting of the Jean Piaget Society (Belgrade, 2025).
 
 ---
 
