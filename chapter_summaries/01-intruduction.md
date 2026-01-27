@@ -3,7 +3,11 @@
 ## From "Epistemology of Logic: Logic – Dialectic or Theory of Knowledge"
 ### Epaminondas Xenopoulos (Second Edition, Kefalonia 2024)
 
----
+---> This text is the Introduction of Epaminondas Xenopoulos’
+> book “Epistemology of Logic”.
+> It is a primary philosophical source text and does not
+> constitute a conceptual, architectural, or theoretical
+> foundation of this repository.
 
 ### Opening Proposition
 "In the beginning is Action, and not the Logos."
