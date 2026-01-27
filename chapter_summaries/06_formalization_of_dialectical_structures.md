@@ -1,6 +1,23 @@
 markdown
 # Formalization of Dialectical Structures
 
+**Methodological Note**
+>
+> The formal symbols, operators, matrices, and schematic notations
+> presented in this chapter (e.g. Np, truth-value spectra, propositional
+> matrices, Y(L,B,Θ), Sπ, Sa) do **not** constitute a systems-theoretic,
+> computational, logical-calculus, or cognitive model.
+>
+> They are strictly expository formalizations of dialectical structures
+> explicitly developed by Epameinondas Xenopoulos and grounded in
+> material practice, historical process, and objective contradiction.
+>
+> No extension, axiomatization, algorithmic interpretation, or external
+> formal system is introduced beyond what is explicitly stated in the
+> source text.
+
+## Foundational Formal Symbols from Xenopoulos's Text
+
 ## Foundational Formal Symbols from Xenopoulos's Text
 
 ### A. The Process Operator Np (Pages 10-11)
@@ -182,6 +199,25 @@ The transition from one dialectical category to another:
 ---
 
 ## Τυπικοποίηση των Διαλεκτικών Δομών
+
+# Formalization of Dialectical Structures
+
+> **Methodological Note / Μεθοδολογική Σημείωση**
+>  
+> Οι τυπικοί συμβολισμοί, τελεστές, πίνακες και σχηματικές αναπαραστάσεις
+> του παρόντος κεφαλαίου (π.χ. Np, φάσμα τιμών αλήθειας, προτασιακή μήτρα,
+> Υ(L,B,Θ), Sπ, Sa) **δεν** συγκροτούν συστημικό, υπολογιστικό,
+> λογιστικο-αλγοριθμικό ή γνωσιακό μοντέλο.
+>  
+> Αποτελούν αποκλειστικά σχηματική απόδοση διαλεκτικών δομών που
+> αναπτύσσονται ρητά από τον Επαμεινώνδα Ξενόπουλο και θεμελιώνονται
+> στην υλική πρακτική, την ιστορική διαδικασία και την αντικειμενική
+> αντίφαση.
+>  
+> Δεν εισάγεται καμία επέκταση, αξιωματοποίηση ή εξωτερικό τυπικό σύστημα
+> πέραν όσων περιέχονται ρητά στο πρωτογενές κείμενο.
+
+## Foundational Formal Symbols from Xenopoulos's Text
 
 ### Θεμελιώδεις Τυπικοί Συμβολισμοί από το Κείμενο του Ξενόπουλου
 
