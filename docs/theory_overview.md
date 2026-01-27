@@ -4,6 +4,8 @@ markdown
 ### Epaminondas Xenopoulos (Second Edition, Kefalonia 2024)
 
 ---
+> This document is a faithful theoretical overview of Epaminondas Xenopoulos’ book.
+> It is descriptive, not axiomatic, and does not constitute part of the formal system.
 
 ## 1. Central Theme and Purpose
 
