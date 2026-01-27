@@ -1,6 +1,35 @@
 # Historical Timeline of Logical Development  
 _from_ **Epistemology of Logic: Logic–Dialectic or Theory of Knowledge**
 
+### Methodological Note
+
+This timeline is not intended as a neutral, exhaustive, or purely historiographical
+account of the development of logic.
+
+It represents the *internal historical reconstruction* of logical thought
+as articulated by **Epameinondas Xenopoulos** in  
+*Epistemology of Logic: Logic–Dialectic or Theory of Knowledge*.
+
+The selection, ordering, and emphasis of thinkers reflect the **dialectical
+problematic of logic itself** — namely, the historical tension between
+**static formal systems** and **dynamic dialectical processes** —
+and not an external or encyclopedic history of philosophy.
+
+Accordingly, this timeline functions as a **conceptual and epistemological
+scaffold** for the formal, mathematical, and computational models developed
+in this repository, particularly those concerning propositional matrices,
+dialectical operators, and contradiction‑driven transformations.
+
+No external historical interpretations, classifications, or periodizations
+have been introduced. All entries derive exclusively from the internal
+structure, references, and argumentative trajectory of Xenopoulos’ work.
+
+The purpose of this timeline is therefore **structural**, not descriptive:
+to situate the models implemented here within a 2,500‑year problem‑space
+concerning logic, contradiction, and becoming.
+
+
+
 This timeline presents the historical development of logical thought as outlined by **Epameinondas Xenopoulos**, compiled exclusively from the chronological references of the book.
 
 ---
@@ -265,3 +294,36 @@ All entries, dates, and page references derive **exclusively** from
 *Epistemology of Logic: Logic–Dialectic or Theory of Knowledge* (2nd ed., 2024),  
 its footnotes, and internal bibliography. No external historical sources or  
 interpretations have been introduced.
+
+
+### Μεθοδολογική Σημείωση
+
+Το παρόν χρονολόγιο **δεν αποσκοπεί** στη συγκρότηση μιας ουδέτερης,
+εξαντλητικής ή αμιγώς ιστοριογραφικής αφήγησης της εξέλιξης της λογικής.
+
+Αποτελεί την **εσωτερική ιστορική ανασυγκρότηση** της λογικής σκέψης,
+όπως αυτή διατυπώνεται από τον **Επαμεινώνδα Ξενόπουλο** στο έργο  
+*Επιστημολογία της Λογικής: Λογική–Διαλεκτική ή Θεωρία της Γνώσης*.
+
+Η επιλογή, η διάταξη και η έμφαση στους φιλοσόφους και τα λογικά ρεύματα
+αντανακλούν το **διαλεκτικό προβληματικό της ίδιας της λογικής** —
+δηλαδή την ιστορική ένταση μεταξύ **στατικών τυπικών συστημάτων**
+και **δυναμικών διαλεκτικών διαδικασιών** —
+και όχι μια εξωτερική ή εγκυκλοπαιδική ιστορία της φιλοσοφίας.
+
+Ως εκ τούτου, το χρονολόγιο λειτουργεί ως **εννοιολογικό και επιστημολογικό
+υπόβαθρο** για τα τυπικά, μαθηματικά και υπολογιστικά μοντέλα που
+αναπτύσσονται στο παρόν αποθετήριο, ιδίως για εκείνα που αφορούν
+προτασιακές μήτρες, διαλεκτικούς τελεστές και μετασχηματισμούς
+κινούμενους από την αντίφαση.
+
+Δεν έχουν εισαχθεί εξωτερικές ιστορικές ερμηνείες, ταξινομήσεις ή
+περιοδολογήσεις. Όλες οι αναφορές προκύπτουν αποκλειστικά από
+την εσωτερική δομή, τις παραπομπές και την επιχειρηματολογική πορεία
+του έργου του Ξενόπουλου.
+
+Ο σκοπός του χρονολογίου είναι συνεπώς **δομικός και όχι περιγραφικός**:
+να τοποθετήσει τα μοντέλα που υλοποιούνται εδώ μέσα σε ένα ιστορικό
+προβληματικό 2.500 ετών σχετικά με τη λογική, την αντίφαση
+και το γίγνεσθαι.
+
