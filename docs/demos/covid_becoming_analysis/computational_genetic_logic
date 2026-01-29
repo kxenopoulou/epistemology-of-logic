@@ -1,0 +1,42 @@
+Computational Demo of Historical‑Genetic Logic
+The notebook included in this repository is provided exclusively as an illustrative computational demo of the historical‑genetic logic developed in the present theoretical work.
+
+It is not an epidemiological prediction model, nor a statistical analysis of real‑world COVID data. Instead, the demo implements, in computational form, the core principles of historical‑genetic logic:
+
+governing laws are not fixed, but historically mutable
+crisis thresholds are not predefined, but emerge from the system’s own history
+contradiction is not resolved, but operates as a generative force
+time is an internal component of logic, not an external indexing variable
+The pandemic is used as a historical field of becoming, in order to demonstrate how a phenomenon undergoes qualitative transformation through successive crises, rather than as an object of quantitative forecasting.
+
+The notebook functions as a material proof‑of‑concept that historical‑genetic logic can be computationally implemented. It does not claim completeness, finality, or empirical predictive authority.
+
+👉 The full and continuously evolving computational implementation, including extended documentation and theoretical framing, is available in the dedicated repository:
+
+
+
+Υπολογιστικό Demo Ιστορικο‑Γενετικής Λογικής
+Το παρόν notebook περιλαμβάνεται αποκλειστικά ως ενδεικτικό demo της
+ιστορικο‑γενετικής λογικής που αναπτύσσεται στο παρόν θεωρητικό έργο.
+
+Δεν πρόκειται για επιδημιολογικό μοντέλο πρόβλεψης, ούτε για στατιστική
+ανάλυση πραγματικών δεδομένων. Το demo υλοποιεί, σε υπολογιστική μορφή,
+τις βασικές αρχές της ιστορικο‑γενετικής λογικής:
+
+οι νόμοι εξέλιξης δεν είναι σταθεροί, αλλά μεταβάλλονται ιστορικά
+τα κατώφλια κρίσης δεν προκαθορίζονται, αλλά αναδύονται από το
+ιστορικό του συστήματος
+η αντίφαση δεν επιλύεται, αλλά λειτουργεί ως κινητήριος μηχανισμός
+ο χρόνος αποτελεί εσωτερικό στοιχείο της λογικής, όχι εξωτερική
+μεταβλητή
+Η πανδημία χρησιμοποιείται ως ιστορικό πεδίο γίγνεσθαι, προκειμένου να
+δειχθεί πώς ένα φαινόμενο μετασχηματίζεται ποιοτικά μέσα από διαδοχικές
+κρίσεις, και όχι ως απλό αντικείμενο ποσοτικής πρόβλεψης.
+
+Το notebook λειτουργεί ως υλική απόδειξη δυνατότητας υλοποίησης της
+ιστορικο‑γενετικής λογικής, όχι ως πλήρης ή τελική εφαρμογή.
+
+👉 Η πλήρης, εξελισσόμενη υπολογιστική υλοποίηση, μαζί με αναλυτική
+τεκμηρίωση και θεωρητικό πλαίσιο, βρίσκεται στο ξεχωριστό repository:
+
+
