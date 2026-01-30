@@ -204,6 +204,7 @@ bibtex
 📘 Publisher: Aristotle Editions, Kefalonia, Greece
 
 Dedicated to the memory of Epameinondas Xenopoulos (1920–1994)
+**Dedicated to the memory of Epameinondas Xenopoulos (1920–1994), my father.**
 
 “The dialectic continues...”
 
