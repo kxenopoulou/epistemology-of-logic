@@ -9,8 +9,11 @@
 
 
 markdown
-# 🧬 GENETIC–HISTORICAL LOGIC  
-## ⚡ The First Complete Formalization of Dialectical Becoming  
+# 🧬 GENETIC–HISTORICAL LOGIC  # ⚡ The First Complete Formalization of Dialectical Becoming  
+
+ 
+# The End of A = A: Xenopoulos and the Logic of Becoming
+
 ### *A System by Epameinondas Xenopoulos*
 
 
