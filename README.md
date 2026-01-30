@@ -185,12 +185,14 @@ https://creativecommons.org/licenses/by-nc/4.0/
 Citation:
 
 bibtex
-@software{xenopoulos_genetic_historical_2024,
-  title = {Genetic-Historical Logic},
-  author = {Xenopoulos, Epameinondas},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/xenopoulos-logic/genetic-historical-logic}
+@misc{xenopoulos_epistemology_2024,
+  title        = {Epistemology of Logic: Logic-Dialectic or Theory of Knowledge},
+  author       = {Xenopoulos, Epameinondas},
+  year         = {2024},
+  howpublished = {GitHub repository},
+  publisher    = {GitHub},
+  url          = {https://github.com/kxenopoulou/epistemology-of-logic},
+  note         = {2nd Edition. Overview and chapter summaries of the philosophical work on historical-genetic logic.}
 }
 
 <div align="center">
