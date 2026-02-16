@@ -1,1 +1,55 @@
 
+{
+  "title": "The 32 Principles of Epameinondas Xenopoulos",
+  "author": "Katerina Xenopoulou",
+  "date": "February 2026",
+  "bibliographic_reference": "Xenopoulos, E. (2024). Epistemology of Logic (2nd ed.). ISBN 978-618-87332-0-6",
+  "principles_count": 32,
+  "categories": {
+    "Dialectical Principles": 10,
+    "Theory of Knowledge": 8,
+    "Mathematical Formalization": 7,
+    "Innovative Applications": 7
+  },
+  "xeptqlri_calculations": [
+    {
+      "thesis": 0.9,
+      "antithesis": 0.1,
+      "historical_trend": 0.7,
+      "xeptqlri_value": 0.0
+    },
+    {
+      "thesis": 0.7,
+      "antithesis": 0.3,
+      "historical_trend": 0.5,
+      "xeptqlri_value": 0.184
+    },
+    {
+      "thesis": 0.5,
+      "antithesis": 0.5,
+      "historical_trend": 0.3,
+      "xeptqlri_value": 0.0
+    },
+    {
+      "thesis": 0.3,
+      "antithesis": 0.7,
+      "historical_trend": 0.2,
+      "xeptqlri_value": 0.184
+    },
+    {
+      "thesis": 0.1,
+      "antithesis": 0.9,
+      "historical_trend": 0.1,
+      "xeptqlri_value": 0.0
+    }
+  ],
+  "files_generated": {
+    "summary_plot": "summary/32_principles_summary.png",
+    "dialectical_principles": "dialectical_principles/dialectical_principles.png",
+    "theory_of_knowledge": "theory_of_knowledge/theory_of_knowledge.png",
+    "mathematical_formalizations": "mathematical_formalizations/mathematical_formalizations.png",
+    "innovative_applications": "innovative_applications/innovative_applications.png",
+    "3d_synthesis": "summary/dialectical_synthesis_3d.png",
+    "html_report": "xenopoulos_32_principles_report.html"
+  }
+}
